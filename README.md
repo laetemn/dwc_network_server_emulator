@@ -15,19 +15,7 @@ Instruções para configurar seu próprio servidor podem ser encontradas [aqui](
 Requirimentos:
 --------------
 - Python 2.7
-   - Twisted
-     - zope.interface
-     - pywin32 (for Windows users only)
- - Apache (or your favorite httpd)
-++++++++++++++++++++++
-
-Projetos de código aberto mencionados durante a criação deste projeto: OpenSpy Core | Gslist e enctypex_decoder de Luigi Auriemma
-
-Instruções para configurar seu próprio servidor podem ser encontradas aqui.
-Requisitos:
-
-     Python 2.7
-         Torcido
-             zope.interface
-             pywin32 (apenas para usuários do Windows)
-     Apache (ou seu httpd favorito)
+  - Twisted
+    - zope.interface
+    - pywin32 (apenas para usuários do Windows)
+ - Apache (ou seu httpd favorito)
